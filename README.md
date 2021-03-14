@@ -25,3 +25,11 @@
 - [ ] Construct a page for Contact Form.
 
 - [ ] Add functionality to send emails to my contacts!!
+
+- [ ] Migrate My Blog into this Project.
+
+- [ ] Migrate My Portfolio into this Project.
+
+- [ ] Migrate My Projects into this Project.
+
+- [ ] List all my Projects and Templates in one of my web pages.
