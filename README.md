@@ -1,5 +1,23 @@
 ![My Website](./assets/images/readme-banner.png)
 
+---
+
+### Instructions
+
+❓How to run Application:
+
+```bash
+symfony serve
+```
+
+❓How to run postgresql using docker:
+
+```bash
+docker run --name my_website -e POSTGRES_PASSWORD=root -p 5432:5432 -d postgres:latest
+```
+
+---
+
 ### Features in the Application
 - [X] Symfony Framework as base framework.
 
@@ -14,6 +32,8 @@
 - [ ] Add SCSS Support.
 
 - [ ] Add Bootstrap Support.
+
+---
 
 ### My Work
 - [ ] Port my old website in to this project.
